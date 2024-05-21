@@ -105,8 +105,7 @@ const assetsServer = createServer(async (request, response) => {
 });
 
 assetsServer.listen(PORT, () => {
-  console.log(`Assets Server is running on port: ${PORT}`);
-  console.log(assetsServer.address());
+  console.log(`Assets Server is running on at http://localhost:${PORT}`);
 });
 
 ////////////////////
