@@ -1,2 +1,4 @@
-# snippet_admin_panel
-Snippet for admin panel
+# Web snippets
+
+- Snippets for admin panel
+- Snippets for side menu
